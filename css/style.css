@@ -1,0 +1,21 @@
+
+.nav-bar {
+    height: 200px;
+    border-style: dashed;
+    background-color: red;
+}
+
+.left-column {
+    height: 500px;
+    background-color: green;
+}
+
+.right-column {
+    height: 500px;
+    background-color: blue;
+}
+.grid-footer {
+    height: 200px;
+    border-style: dashed;
+    background-color: yellow;
+}
