@@ -2,20 +2,20 @@
 .nav-bar {
     height: 200px;
     border-style: dashed;
-    background-color: red;
+    background-color: rgb(138, 77, 77);
 }
 
 .left-column {
     height: 500px;
-    background-color: green;
+    background-color: rgb(80, 119, 80);
 }
 
 .right-column {
     height: 500px;
-    background-color: blue;
+    background-color: rgb(53, 53, 128);
 }
 .grid-footer {
     height: 200px;
     border-style: dashed;
-    background-color: yellow;
+    background-color: rgb(146, 146, 70);
 }
